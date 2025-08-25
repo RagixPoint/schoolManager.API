@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qyxIkfdaG4A=",
+  "success": true,
+  "projectFilePath": "/Users/ragix/RiderProjects/SchoolManager/Backend/SchoolManager/SchoolManager.Domain/SchoolManager.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/ragix/.nuget/packages/microsoft.netcore.app.ref/9.0.7/microsoft.netcore.app.ref.9.0.7.nupkg.sha512",
+    "/Users/ragix/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.7/microsoft.aspnetcore.app.ref.9.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

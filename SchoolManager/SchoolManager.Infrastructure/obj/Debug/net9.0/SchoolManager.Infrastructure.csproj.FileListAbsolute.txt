@@ -1,0 +1,17 @@
+/Users/ragix/RiderProjects/SchoolManager/Backend/SchoolManager/SchoolManager.Infrastructure/bin/Debug/net9.0/SchoolManager.Infrastructure.deps.json
+/Users/ragix/RiderProjects/SchoolManager/Backend/SchoolManager/SchoolManager.Infrastructure/bin/Debug/net9.0/SchoolManager.Infrastructure.runtimeconfig.json
+/Users/ragix/RiderProjects/SchoolManager/Backend/SchoolManager/SchoolManager.Infrastructure/bin/Debug/net9.0/SchoolManager.Infrastructure.dll
+/Users/ragix/RiderProjects/SchoolManager/Backend/SchoolManager/SchoolManager.Infrastructure/bin/Debug/net9.0/SchoolManager.Infrastructure.pdb
+/Users/ragix/RiderProjects/SchoolManager/Backend/SchoolManager/SchoolManager.Infrastructure/bin/Debug/net9.0/SchoolManager.Domain.dll
+/Users/ragix/RiderProjects/SchoolManager/Backend/SchoolManager/SchoolManager.Infrastructure/bin/Debug/net9.0/SchoolManager.Domain.pdb
+/Users/ragix/RiderProjects/SchoolManager/Backend/SchoolManager/SchoolManager.Infrastructure/obj/Debug/net9.0/SchoolManager.Infrastructure.csproj.AssemblyReference.cache
+/Users/ragix/RiderProjects/SchoolManager/Backend/SchoolManager/SchoolManager.Infrastructure/obj/Debug/net9.0/SchoolManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ragix/RiderProjects/SchoolManager/Backend/SchoolManager/SchoolManager.Infrastructure/obj/Debug/net9.0/SchoolManager.Infrastructure.AssemblyInfoInputs.cache
+/Users/ragix/RiderProjects/SchoolManager/Backend/SchoolManager/SchoolManager.Infrastructure/obj/Debug/net9.0/SchoolManager.Infrastructure.AssemblyInfo.cs
+/Users/ragix/RiderProjects/SchoolManager/Backend/SchoolManager/SchoolManager.Infrastructure/obj/Debug/net9.0/SchoolManager.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/ragix/RiderProjects/SchoolManager/Backend/SchoolManager/SchoolManager.Infrastructure/obj/Debug/net9.0/SchoolMa.4BA6E014.Up2Date
+/Users/ragix/RiderProjects/SchoolManager/Backend/SchoolManager/SchoolManager.Infrastructure/obj/Debug/net9.0/SchoolManager.Infrastructure.dll
+/Users/ragix/RiderProjects/SchoolManager/Backend/SchoolManager/SchoolManager.Infrastructure/obj/Debug/net9.0/refint/SchoolManager.Infrastructure.dll
+/Users/ragix/RiderProjects/SchoolManager/Backend/SchoolManager/SchoolManager.Infrastructure/obj/Debug/net9.0/SchoolManager.Infrastructure.pdb
+/Users/ragix/RiderProjects/SchoolManager/Backend/SchoolManager/SchoolManager.Infrastructure/obj/Debug/net9.0/SchoolManager.Infrastructure.genruntimeconfig.cache
+/Users/ragix/RiderProjects/SchoolManager/Backend/SchoolManager/SchoolManager.Infrastructure/obj/Debug/net9.0/ref/SchoolManager.Infrastructure.dll
