@@ -3,6 +3,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
+using SchoolManager.Application.Common.Exceptions;
 using SchoolManager.Application.DTOs.Auth;
 using SchoolManager.Application.DTOs.User;
 using SchoolManager.Application.Interfaces;
@@ -30,7 +31,9 @@ public class RegisterCommandHandler(IAppDbContext context, IJwtService jwtServic
         {
             var user = await context.Users.FirstOrDefaultAsync(u => u.Email == request.Email, cancellationToken: cancellationToken);
             if (user != null)
-                throw new Exception("Email already exists");
+                throw new EmailAlreadyExistsException();
+
+
             var createdUser = context.Users.Add(new User()
             {
                 Email = request.Email,
@@ -44,7 +47,7 @@ public class RegisterCommandHandler(IAppDbContext context, IJwtService jwtServic
             return new RegisterResponse()
             {
                 Success = true,
-                Message = "User created successfully",
+                Message = "auth.register.success",
                 UserId = createdUser.Entity.Id
             };
         }
